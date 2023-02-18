@@ -1,0 +1,28 @@
+#topnav {
+  margin: 0.625rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#navdiv {
+  display: flex;
+  align-items: center;
+}
+
+#logotext {
+  text-decoration: none;
+  padding: 0 0 0 0.313rem;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #6070FF;  
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#idmain {
+  background-image: url(/images/header-shapes\ mobile@2x.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#idsection {
+  margin: 0.625rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+#icons {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-items:left;
+  gap: 0.625rem;
+  margin: 0.938rem 0;
+  align-items: center;
+}
+
+#icons li {
+  transition: all 300ms ease-in-out;
+}
+
+#icons li:hover {
+  transform: scale(1.3);
+}
+
+#idh1 {
+  padding: 5rem 0 0 0;
+  font-family: 'Poppins', sans-serif;
+  color: #172B4D;
+}
+
+#idp1 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #344563;
+}
+
+#idconnect {
+  color: #7F8CFF;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
