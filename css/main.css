@@ -19,7 +19,7 @@
   list-style: none;
   display: flex;
   flex-direction: row;
-  justify-items:left;
+  justify-items: left;
   gap: 0.625rem;
   margin: 0.938rem 0;
   align-items: center;
@@ -36,7 +36,7 @@
 #idh1 {
   padding: 5rem 0 0 0;
   font-family: 'Poppins', sans-serif;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 #idp1 {
@@ -47,9 +47,8 @@
 }
 
 #idconnect {
-  color: #7F8CFF;
+  color: #7f8cff;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
 }
-
