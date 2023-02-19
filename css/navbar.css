@@ -1,7 +1,6 @@
 #topnav {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding: 3% 6.2% 0% 6.2%;
   background-color: white;
 }
